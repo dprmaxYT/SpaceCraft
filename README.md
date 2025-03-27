@@ -1,0 +1,1 @@
+nunca lo terminé, se supone es un minecraft muy basico echo en el espacio, usando rust y vulcan, hay partes que no se han terminado de programar (tienen un comentario que lo explica) si lo vas a usar para algo hazlo, pero avisame por lo menos (tampoco es que tengas que hacerlo)
